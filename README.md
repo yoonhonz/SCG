@@ -6,4 +6,4 @@ SCG
     Min Ho Lee
     Ho Yeung Chin
     Qi Sheng Vincent Leow
-    Erqian Zhang
+    Erqian Zhang 
