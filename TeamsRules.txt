@@ -9,3 +9,5 @@
 - If there is conflict between members, the leader will be act as an arbitrator. If it cannot be resolved, then the problem will be reported to the course coordinator.
 - If there is conflict between the leader and the member(s) and the issue cannot be resolved, then the problem will be reported to the course coordinator.
 - If the team can not come to an agreement in any discussion, then a democratic process will occur (i.e. we will vote). If the vote results are equal, we will flip a coin or pick a card.
+
+    dfgf
